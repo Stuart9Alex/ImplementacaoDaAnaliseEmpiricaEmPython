@@ -1,0 +1,2 @@
+# ImplementacaoDaAnaliseEmpiricaEmPython
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bda192aef5db4b7395328135103121c9)](https://app.codacy.com/gh/Stuart9Alex/ImplementacaoDaAnaliseEmpiricaEmPython?utm_source=github.com&utm_medium=referral&utm_content=Stuart9Alex/ImplementacaoDaAnaliseEmpiricaEmPython&utm_campaign=Badge_Grade)
